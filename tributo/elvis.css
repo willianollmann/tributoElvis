@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    background-color: hsl(240, 2%, 22%);
+    color: lightgray;
+}
+header{
+    text-align: center;
+}
+header h1 {
+    margin-bottom: 0px;
+}
+header blockquote {
+    margin-bottom: 1em;
+    border-bottom: 2px deepskyblue solid;
+    font-style: italic;
+    font-family: 'dancing script', cursive;
+    font-size: 20px;
+}
+figure {
+    width: 250px;
+    margin: auto;
+}
+figure img{
+    width: 250px;
+}
+figcaption {
+    text-align: center;
+    font-size: 10px;
+}
+.fundo {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#p1,
+#p2 {
+    margin: 0px;
+    line-height: 2em;
+    text-indent: 2em;
+}
+.video {
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.more {
+    border-top: 2px deepskyblue solid;
+    border-bottom: 2px  deepskyblue solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.more a{
+    text-decoration: none;
+    color: white;
+}
+footer {
+    margin-top: 2em;
+    font-size: 11px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
